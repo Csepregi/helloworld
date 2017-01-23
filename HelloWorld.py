@@ -19,3 +19,13 @@ def dkgfjkgj():
 
 def jfkdljf():
     pass
+
+
+def Gitgyakorlás():
+    pass
+
+
+def gitgitgit():
+    return 3
+
+gitgitgit()
