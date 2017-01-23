@@ -17,3 +17,6 @@ for door in range(0, len(hallway)):
 
 def kdjfdkj():
     pass
+
+def kjfdkljfkfjdkl():
+    pass
