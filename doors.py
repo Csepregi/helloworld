@@ -15,3 +15,5 @@ for door in range(0, len(hallway)):
     if hallway[door] == 1:
         print("Open: ", door+1)
 
+def kdjfdkj():
+    pass
